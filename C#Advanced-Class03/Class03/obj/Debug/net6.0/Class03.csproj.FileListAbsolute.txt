@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\bin\Debug\net6.0\Class03.exe
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\bin\Debug\net6.0\Class03.deps.json
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\bin\Debug\net6.0\Class03.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\bin\Debug\net6.0\Class03.dll
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\bin\Debug\net6.0\Class03.pdb
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.dll
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\refint\Class03.dll
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.pdb
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\Class03.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C#Advanced\C#Advanced-Class03\Class03\obj\Debug\net6.0\ref\Class03.dll
